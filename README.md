@@ -1,4 +1,6 @@
-## Hi there 👋
+Hi, my name is Drew. I'm interested in building useful tools for myself and others by approaching software development with as much creativity as I can. Here you can see what I'm currently working on.
+
+Please feel free to reach out at bdellis44@gmail.com
 
 <!--
 **ellisbd4/ellisbd4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
